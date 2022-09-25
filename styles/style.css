@@ -41,3 +41,15 @@
 a[title]{
     color: teal;
 }
+/* Непривычное форматирование фигурных скобок это нормально */
+a[href="https://htmlreference.io"] {
+    color: teal;
+}
+
+a[href="https://cssreference.io"] {
+    color: orange;
+}
+
+a[href="https://www.youtube.com"] {
+    color: tomato;
+}
