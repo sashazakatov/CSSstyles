@@ -38,3 +38,6 @@
 {
     border: 1px solid tomato;
 }
+a[title]{
+    color: teal;
+}
